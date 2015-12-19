@@ -1,6 +1,10 @@
+__author__ = 'vaishali'
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+from __future__ import division
+
 a = int(raw_input())
 b = int(raw_input())
-m = int(raw_input())
-print pow(a,b)
-print pow(a,b,m)
+
+print a//b
+print a%b
+print divmod(a,b)
