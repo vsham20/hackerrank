@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcf0dae7-2a63-4d78-9749-471f5e2ecd25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/divmod.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/large_sized_int.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/power.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text-wrap.py" />
-      <change type="DELETED" beforePath="C:\Users\vaishali\Downloads\new_pfs\divmod.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vaishali\Downloads\new_pfs\large_sized_int.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vaishali\Downloads\new_pfs\loop.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vaishali\Downloads\new_pfs\power.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vaishali\Downloads\new_pfs\swap.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools_products.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="new_pfs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,11 +74,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="divmod.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="divmod.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/divmod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49418604">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Check-subset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Check-subset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="complex to polar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/complex to polar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itertools_products.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itertools_products.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34593022">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -118,6 +139,9 @@
         <option value="$PROJECT_DIR$/large_sized_int.py" />
         <option value="$PROJECT_DIR$/divmod.txt" />
         <option value="$PROJECT_DIR$/divmod.py" />
+        <option value="$PROJECT_DIR$/Check-subset.py" />
+        <option value="$PROJECT_DIR$/complex to polar.py" />
+        <option value="$PROJECT_DIR$/itertools_products.py" />
       </list>
     </option>
   </component>
@@ -180,6 +204,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/vsham20" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -321,7 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="590" y="194" width="621" height="480" extended-state="1" />
+    <frame x="590" y="194" width="621" height="480" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -394,8 +419,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/divmod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49418604">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Check-subset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/complex to polar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools_products.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34593022">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
