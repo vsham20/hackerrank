@@ -10,4 +10,4 @@ for customer in range(N):
         S[size] -= 1
         earnings += x_i
 
-print earnings 
+print earnings
