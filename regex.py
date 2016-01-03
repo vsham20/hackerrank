@@ -7,4 +7,4 @@ for i in range(int(raw_input())):
     except:
         print False
         continue
-    print True  
+    print True
