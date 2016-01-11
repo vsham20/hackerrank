@@ -1,5 +1,13 @@
 __author__ = 'vaishali'
 """
+collections.deque()
+
+A deque is a double-ended queue. It can be used to add or remove elements from both ends.
+
+Deques support thread safe, memory efficient appends and pops from either side of the deque with approximately the same O(1) performance in either direction.
+
+Click on the link to learn more about deque() methods.
+Click on the link to learn more about various approaches to working with deques: Deque Recipes.
 >>> from collections import deque
 >>> d = deque()
 >>> d.append(1)
@@ -39,6 +47,23 @@ deque(['6', '9', '8', '7', '3'])
 >>> d.rotate(3)
 >>> print d
 deque(['8', '7', '3', '6', '9'])
+
+Task
+
+Perform append, pop, popleft and appendleft methods on an empty deque d.
+
+Input Format
+
+The first line contains an integer N, the number of operations.
+The next N lines contains the space separated names of methods and their values.
+
+Constraints
+
+0<N?100
+
+Output Format
+
+Print the space separated elements of deque d.
 """
 
 
